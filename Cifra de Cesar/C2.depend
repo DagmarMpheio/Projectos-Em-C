@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1544030372 source:c:\users\dagma\onedrive\documents\c\jack\c2\main.c
+	<stdio.h>
+	<string.h>
+
+1544033146 source:c:\users\dagma\onedrive\documents\c\cifra de cesar\main.c
+	<stdio.h>
+	<string.h>
+
